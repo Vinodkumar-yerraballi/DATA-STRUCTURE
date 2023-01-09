@@ -1,4 +1,5 @@
 #define the function 
+#calling the function name in the function leds to the recursion that's way i choose another method to used it 
 def Ternaysearch(l,r,x,arr):
     while l<=r:
         mid1=l+(r-l)//3
